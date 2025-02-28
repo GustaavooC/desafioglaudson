@@ -1,4 +1,4 @@
-Aqui está um desafio técnico curto para avaliar as habilidades do candidato em **MySQL, Laravel e PHP**, seguindo princípios de **SOLID e POO**.  
+  
 
 ---
 
